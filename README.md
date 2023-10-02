@@ -1,1 +1,1 @@
-# hexlet-java
+# Hexlet - Java course
